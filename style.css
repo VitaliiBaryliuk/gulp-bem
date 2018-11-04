@@ -57,7 +57,7 @@
 
 .top-menu {
   float: right;
-  //border: solid 1px black;
+  overflow: hidden;
   height: 25px;
   padding: 5px 20px 10px 0px;
   margin-right: 0px;
@@ -164,6 +164,7 @@
 }
 
 .our-team {
+  overflow: hidden;
   margin-top: 90px;
   padding-left: 40px;
 }
@@ -175,14 +176,57 @@
 
 .team-member {
   display: inline-block;
-  width: 40%;
-  //margin: 33px;
+  vertical-align: top;
+  width: 33%;
 }
 
 .team-member-photo {
   display: inline-block;
+  width: 40%;
+  vertical-align: top;
 }
 
 .team-member-info {
   display: inline-block;
+  width: 40%;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.team-member-info span{
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.team-member-specialisation {
+  font-size: 14px;
+  color: #fa5c65;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.short-description {
+  margin-top: 7px;
+  width: 100%;
+}
+
+.footer-content {
+  margin: 53px 180px 0 200px;
+  border-top: 1px solid grey;
+  padding-top: 20px;
+}
+
+.social-icons {
+  float: left;
+}
+
+.designet-by {
+  float: right;
+  color: grey;
+  font-size: 14px;
+}
+
+.social-icons-list .fab{
+  margin-right: 12px;
+  color: grey;
 }
