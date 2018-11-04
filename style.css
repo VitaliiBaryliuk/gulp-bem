@@ -12,7 +12,7 @@
   text-transform: uppercase;
 }
 
-.inline-blocks{
+.inline-blocks {
   display: inline-block;
 }
 
@@ -23,10 +23,6 @@
   padding: 0 150px 0 150px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-}
-
-.header-top {
-  //border: solid 1px black;
 }
 
 .logo {
@@ -40,7 +36,6 @@
   text-align: center;
   padding-top: 18px;
   padding-bottom: 9px;
-  //border: solid 1px black;
   background: #fa5c65;
   border-bottom-right-radius: 7px; 
   border-bottom-left-radius: 7px;
@@ -70,15 +65,20 @@
   text-align: center;
 }
 
-.top-menu:fist-child {
- // margin-left: 0px;
+.top-menu li a {
+  color: black;
+  text-decoration: none;
+}
+
+.top-menu .fab {
+  font-size: 18px;
+  color: #fa5c65;
 }
 
 .header-bottom {
   width: 600px;
   margin-top: 300px;
   padding-left: 70px;
-  //border: solid 1px black;
 }
 
 .title-message { 
