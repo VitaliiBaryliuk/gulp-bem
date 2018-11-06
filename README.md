@@ -1,2 +1,2 @@
 # Base template for Gulp
-https://github.com/VitaliyBaryliuk/gulp-bem/dist
+https://vitaliybaryliuk.github.io/gulp-bem/dist
