@@ -119,6 +119,9 @@ clearfix {
   overflow: hidden;
   margin-top: 90px;
   padding-left: 40px; }
+  .team-member .team-member__title {
+    font-size: 28px;
+    font-weight: 800; }
   .team-member .team-member-info__name {
     font-size: 28px;
     font-weight: 800; }
@@ -138,16 +141,14 @@ clearfix {
   .team-member .team-member__name {
     font-size: 22px;
     margin-bottom: 5px; }
-
-.team-member__specialisation {
-  font-size: 14px;
-  color: #fa5c65;
-  margin-top: 5px;
-  font-weight: bold; }
-
-.short-description {
-  margin-top: 7px;
-  width: 100%; }
+  .team-member .team-member__specialisation {
+    font-size: 14px;
+    color: #fa5c65;
+    margin-top: 5px;
+    font-weight: bold; }
+  .team-member .team-member__short-description {
+    margin-top: 7px;
+    width: 100%; }
 
 .footer {
   margin: 53px 180px 0 200px;
