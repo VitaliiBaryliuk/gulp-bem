@@ -16,7 +16,7 @@ clearfix {
   background-size: cover;
   height: 1057px;
   padding: 0 150px 0 150px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold; }
 
 .header-top__logo {
@@ -24,7 +24,7 @@ clearfix {
   margin-left: 67px;
   width: 140px;
   height: 45px;
-  font-family: 'Domine', serif;
+  font-family: "Domine", serif;
   font-size: 20px;
   color: white;
   text-align: center;
@@ -59,7 +59,7 @@ clearfix {
   .header-bottom .header-bottom__title-message {
     font-size: 24px;
     font-weight: bolder;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     line-height: 55px;
     margin-top: 50px;
     margin-bottom: -25px; }
@@ -76,7 +76,7 @@ clearfix {
 
 .main-section {
   padding: 25px 180px;
-  font-family: 'Open Sans', sans-serif; }
+  font-family: "Open Sans", sans-serif; }
 
 .article {
   display: inline-block;
